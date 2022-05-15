@@ -1,0 +1,6 @@
+{
+    "parent": "bettersponges:block/tint_model",
+    "textures": {
+        "all": "bettersponges:blocks/damp_sponge"
+    }
+}

@@ -1,0 +1,25 @@
+-- Changes --
+Wet Sponges will dry over time turning into Damp Sponges and then Sponges when in sunlight or within range of a heat source such as Lava
+Sponges will turn into Damp Sponges and then into Wet Sponges if left out when it is raining
+Wet Sponges in The Nether will turn into Lava Sponges instead of turning into Sponges
+
+Shears can be used in a Dispenser on Sponges, Wet Sponges, Damp Sponges, Potion Sponges, Lava Sponges and Burnt Sponges to pick them up
+Using a Glass Bottle in a Dispenser on a Potion Sponge will give the Potion and revert the Sponge back to normal
+Placing a Sponge, Damp Sponge, Wet Sponge or Lava Sponge in a Dispenser will place down the sponge
+
+Throwing a Water Bottle on a Sponge will turn it into a Damp sponge and then into a Wet sponge
+Throwing a Potion on a Sponge will turn it into a Potion Sponge
+
+Guardians that are struck by lightning will be turned into Elder Guardians
+Guardians that are killed by an Axolotl that is helping The Player will have a 3% chance to give a Sponge drop which is increased by the Looting Enchantment
+
+Right-clicking a Wet Sponge with a Glass Bottle will turn it into a Damp Sponge and give The Player a Water Bottle
+Right-clicking a Damp Sponge with a Glass Bottle will turn it into a Sponge and give The Player a Water Bottle
+Right-clicking a Potion Infused Sponge with a Glass Bottle will turn it into a Sponge and give the Player the respected potion
+
+-- Additions --
+Damp Sponge (A stage in-between Wet Sponge and Sponge)
+Potion Infused Sponge (Gives The Player an effect when in contact)
+
+Lava Sponge (Can be used to absorb Lava instead of Water)
+Burnt Sponge (The result from absorbing Lava with the Lava Sponge - can be used as a furnace fuel)

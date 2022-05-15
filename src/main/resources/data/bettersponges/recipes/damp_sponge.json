@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bettersponges:damp_sponge"
+  },
+  "result": "minecraft:sponge",
+  "experience": 0.075,
+  "cookingtime": 100
+}

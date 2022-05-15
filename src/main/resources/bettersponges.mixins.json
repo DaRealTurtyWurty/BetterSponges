@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "package": "dev.turtywurty.bettersponges.mixins",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "bettersponges.refmap.json",
+    "mixins": [
+        "DryingDrySpongeMixin",
+        "DryingWetSpongeMixin",
+        "ThrownBottleToSpongeMixin",
+        "WetSpongeToLavaMixin"
+    ],
+    "server": [],
+    "client": [],
+    "minVersion": "0.8"
+}

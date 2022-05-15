@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+issueTrackerURL="https://www.github.com/DaRealTurtyWurty/BetterSponges/issues"
+
+[[mods]]
+modId="bettersponges"
+version="1.0"
+displayName="Better Sponges"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+displayURL="https://www.github.com/DaRealTurtyWurty/BetterSponges"
+logoFile="logo.png"
+credits="TurtyWurty"
+authors="TurtyWurty"
+description='''
+Better Sponges is a mod that improves sponges in Minecraft with some much needed changes!'''
