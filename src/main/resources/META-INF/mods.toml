@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="MIT"
+license="GNU Lesser General Public License version 3 (LGPLv3)"
 issueTrackerURL="https://www.github.com/DaRealTurtyWurty/BetterSponges/issues"
 
 [[mods]]
